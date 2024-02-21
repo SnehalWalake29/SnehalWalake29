@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/snehal walake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal walake" height="30" width="40" /></a>
-<a href="https://medium.com/snehal w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="snehal w" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/snehalwalake/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal walake" height="30" width="40" /></a>
+<a href="https://medium.com/@snehalw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="snehal w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
