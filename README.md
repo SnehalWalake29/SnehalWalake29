@@ -6,21 +6,21 @@
 <h1 align="center">Hi 👋, I'm Snehal Walake</h1>
 <h3 align="center">A passionate about Data Science, and I thoroughly enjoy exploring and manipulating data. I am an enthusiastic, goal-oriented team player and a lifelong learner. I love solving business problems and uncovering hidden data stories, backed by a Master's degree in engineering.</h3>
 
-- 🔭 I’m currently looking out for full-time opportunities where i could apply my technical and functional skills to drive actionable results using data.**
+- 🔭 I’m currently looking out for full-time opportunities where i could apply my technical and functional skills to drive actionable results using data.
 
-- 👯 I’m looking to collaborate on Data Science Related real-time projects.**
+- 👯 I’m looking to collaborate on Data Science Related real-time projects.
 
-- 🤝 I’m looking for help with Data Analysis, Machine Learning, Data Visualization, Predictive Modeling and Contribution to Data Science Libraries or Tools.**
+- 🤝 I’m looking for help with Data Analysis, Machine Learning, Data Visualization, Predictive Modeling and Contribution to Data Science Libraries or Tools.
 
-- 🌱 I’m currently learning NLP and Generative AI.**
+- 🌱 I’m currently learning NLP and Generative AI.
 
-- 💬 Ask me about Data Analysis, Visualization,Machine Learning Algorithms,CNN, NLP and GenAI.**
+- 💬 Ask me about Data Analysis, Visualization,Machine Learning Algorithms,CNN, NLP and GenAI.
 
-- 📫 How to reach me **snehalunipune@gmail.com**
+- 📫 How to reach me: snehalunipune@gmail.com
 
-- ⚡ Fun fact **Blog Posts, Art and Design.**
+- ⚡ Fun fact: Blog Posts, Art and Design.
 
-- I am proficient in Data Analytics and Machine Learning concepts and demonstrate a background in Python.**
+- I am proficient in Data Analytics and Machine Learning concepts and demonstrate a background in Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
